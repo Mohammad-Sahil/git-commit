@@ -304,7 +304,7 @@
 
 /* Template Overrides */
 html, body {
-	background: rgb(22, 9, 56);
+	background: 1f212d;
 	background-image: linear-gradient(to top, rgb(22, 9, 56), rgb(24, 12, 58), rgb(26, 14, 60), rgb(27, 17, 62), rgb(29, 19, 64), rgb(31, 22, 66), rgb(33, 24, 67), rgb(35, 27, 69), rgb(37, 29, 71), rgb(38, 32, 73), rgb(40, 34, 75), rgb(42, 37, 77));
 	background-image: -webkit-linear-gradient(to top, rgb(22, 9, 56), rgb(24, 12, 58), rgb(26, 14, 60), rgb(27, 17, 62), rgb(29, 19, 64), rgb(31, 22, 66), rgb(33, 24, 67), rgb(35, 27, 69), rgb(37, 29, 71), rgb(38, 32, 73), rgb(40, 34, 75), rgb(42, 37, 77));
 	color: #fff;
