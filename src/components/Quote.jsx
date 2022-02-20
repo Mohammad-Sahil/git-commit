@@ -4,8 +4,8 @@ import './Quote.css';
 function Quote() {
   return (
     <div className='Quote'>
-        <blockquote>aaaaaa</blockquote>
-                <cite>bbbbbbbbb</cite>
+        <blockquote>Life is 10% what happens to you and 90% how you react to it</blockquote>
+                <cite>Charles R. Swindoll</cite>
     </div>
   )
 }
