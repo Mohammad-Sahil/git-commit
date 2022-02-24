@@ -10,8 +10,8 @@ function App() {
     <Clock/>
     <Quote
       key="1"
-      bquote = "slfjhsdf"
-      cite = "sklfhjsdf"
+      bquote = "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking"
+      cite = "Steve Jobs"
     />
      {/* Header */}
      {/* Clock */}
