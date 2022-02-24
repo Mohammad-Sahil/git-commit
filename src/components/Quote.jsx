@@ -1,11 +1,11 @@
 import React from 'react';
 import './Quote.css';
 
-function Quote() {
+function Quote(props) {
   return (
     <div className='Quote'>
-        <blockquote>Life is 10% what happens to you and 90% how you react to it</blockquote>
-                <cite>Charles R. Swindoll</cite>
+        <blockquote>{props.bquote}</blockquote>
+                <cite>{props.cite}</cite>
     </div>
   )
 }

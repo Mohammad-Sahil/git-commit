@@ -8,7 +8,11 @@ function App() {
     <div className="App" style={{transform: "scale(0.7)", marginTop: "-140px"}}>
     <Header/>
     <Clock/>
-    <Quote/>
+    <Quote
+      key="1"
+      bquote = "slfjhsdf"
+      cite = "sklfhjsdf"
+    />
      {/* Header */}
      {/* Clock */}
      {/* Qoute */}
