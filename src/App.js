@@ -10,8 +10,8 @@ function App() {
     <Clock/>
     <Quote 
       key="1"
-      bquote = "The purpose of our lives is to be happy."
-      cite = "Dalai Lama"
+      bquote = "You only live once, but if you do it right, once is enough."
+      cite = "Mae West"
     />
      {/* Header */}
      {/* Clock */}
