@@ -10,8 +10,8 @@ function App() {
     <Clock/>
     <Quote 
       key="1"
-      bquote = "You only live once, but if you do it right, once is enough."
-      cite = "Mae West"
+      bquote = "The whole secret of a successful life is to find out what is one’s destiny to do, and then do it."
+      cite = "Henry Ford"
     />
      {/* Header */}
      {/* Clock */}
