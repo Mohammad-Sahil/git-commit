@@ -10,8 +10,8 @@ function App() {
     <Clock/>
     <Quote 
       key="1"
-      bquote = "The whole secret of a successful life is to find out what is one’s destiny to do, and then do it."
-      cite = "Henry Ford"
+      bquote = "“Never let the fear of striking out keep you from playing the game.”"
+      cite = "Babe Ruth"
     />
      {/* Header */}
      {/* Clock */}
