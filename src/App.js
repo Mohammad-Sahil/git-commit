@@ -11,7 +11,7 @@ function App() {
     <Quote 
       key="1"
       bquote = "“Get busy living or get busy dying.”"
-      cite = "Babe Ruth"
+      cite = "Stephen King"
     />
      {/* Header */}
      {/* Clock */}
