@@ -11,7 +11,7 @@ function App() {
     <Quote 
       key="1"
       bquote = "“I'm Anonymus.”"
-      cite = "Stephen King"
+      cite = "Anonymus"
     />
      {/* Header */}
      {/* Clock */}
