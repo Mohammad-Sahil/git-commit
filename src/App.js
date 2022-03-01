@@ -10,7 +10,7 @@ function App() {
     <Clock/>
     <Quote 
       key="1"
-      bquote = "“Get busy living or get busy dying.”"
+      bquote = "“I'm Anonymus.”"
       cite = "Stephen King"
     />
      {/* Header */}
