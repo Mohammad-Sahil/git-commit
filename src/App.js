@@ -10,8 +10,8 @@ function App() {
     <Clock/>
     <Quote 
       key="1"
-      bquote = "“I'm.”"
-      cite = "Anonymus only"
+      bquote = "“Success is not final; failure is not fatal: it is the courage to continue that counts.”"
+      cite = "Winston Churchill"
     />
      {/* Header */}
      {/* Clock */}
