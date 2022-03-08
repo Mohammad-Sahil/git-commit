@@ -10,7 +10,7 @@ function App() {
     <Clock/>
     <Quote 
       key="1"
-      bquote = "“Success is not final; failure is not fatal: it is the courage to continue that counts.”"
+      bquote = "“sfhsdjkfhk”"
       cite = "Winston Churchill"
     />
      {/* Header */}
