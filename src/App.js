@@ -10,8 +10,8 @@ function App() {
     <Clock/>
     <Quote 
       key="1"
-      bquote = "Love For All, Hatred For None"
-      cite = "Anonymus"
+      bquote = "The greatest glory in living lies not in never falling, but in rising every time we fall"
+      cite = "Unknown"
     />
      {/* Header */}
      {/* Clock */}
