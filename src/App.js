@@ -10,8 +10,8 @@ function App() {
     <Clock/>
     <Quote 
       key="1"
-      bquote = "hhhhhhhhhhhaaaaaaaaaaaaaalllllllllllllsssssssssssssss"
-      cite = "hhhhhhhhhhhaaaaaaaaaaaaaalllllllllllllsssssssssssssss"
+      bquote = "ddd"
+      cite = "ddd"
     />
      {/* Header */}
      {/* Clock */}
